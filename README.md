@@ -1,4 +1,5 @@
 # webmon-dashboard
+A simple web dashboard for Webmon.
 
 ## Requirements
 - Container Platform
